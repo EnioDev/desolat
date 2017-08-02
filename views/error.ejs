@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="utf-8">
+        <title>Página não encontrada</title>
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+        <style>
+            .container {
+                vertical-align: middle;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="col-md-12">
+                <center>
+                    <h1><%=  error.status %></h1><br/>
+                    <p><strong><%= message %></strong></p>
+                </center>
+                <% if(error.status != 404) {%>
+                <center>
+                    <pre><%= error.stack %></pre>
+                </center>
+                <% } %>
+
+            </div>
+        </div>
+    </body>
+</html>
