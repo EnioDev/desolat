@@ -14,7 +14,7 @@ router.get('/ttt/u', function(req, res, next) {
   res.send('tuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuutetet ');
 });
 
-router.get('/newtech', function(req, res, next) {
+router.get('/newtechs', function(req, res, next) {
   res.send('OOOOLá. ');
 });
 
