@@ -3,4 +3,4 @@ http://resources.infosecinstitute.com/securing-web-apis-part-ii-creating-an-api-
 https://tech.zilverline.com/2017/03/17/nodejs-oauth2-provider
 https://stackoverflow.com/questions/25991527/oauth2-server-creation-with-nodejs
 https://stackoverflow.com/questions/6822840/is-there-a-node-oauth-server-implementation
-
+https://stormpath.com/blog/talking-to-oauth2-services-with-nodejs
