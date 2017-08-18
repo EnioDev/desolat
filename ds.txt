@@ -5,3 +5,5 @@ https://stackoverflow.com/questions/25991527/oauth2-server-creation-with-nodejs
 https://stackoverflow.com/questions/6822840/is-there-a-node-oauth-server-implementation
 https://stormpath.com/blog/talking-to-oauth2-services-with-nodejs
 http://www.expertphp.in/article/generate-jwt-token-after-login-and-verify-with-node-js-api
+https://www.js-tutorials.com/javascript-tutorial/user-authentication-using-jwt-json-web-token-node-js/
+
